@@ -1,0 +1,12 @@
+# Dependencies
+/doctor-service/node_modules
+/metrics-collector/node_modules
+/web-ui/node_modules
+
+# Lock files
+/doctor-service/package-lock.json
+/metrics-collector/package-lock.json
+/web-ui/package-lock.json
+
+# Next.js build
+/web-ui/.next
